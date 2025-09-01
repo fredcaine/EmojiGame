@@ -1,0 +1,17 @@
+{
+    "it": [],
+    "p": 0,
+    "tp": 0,
+    "t": 0,
+    "tt": 0,
+    "iu": [],
+    "pu": 0,
+    "ip": 10000,
+    "toe": 0,
+    "first timer?": true,
+    "bcdict": {},
+    "stdpr": 0,
+    "advpr": 0,
+    "stdei": 0,
+    "advei": 0
+}

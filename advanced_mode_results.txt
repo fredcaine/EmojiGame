@@ -1,0 +1,8 @@
+text,😄,😢,😠,😨,😮,🤢,❤,🤩,🤔,😐
+
+That game hurt.,0.0,1.0,0.6,0.12,0.44,0.01,0.0,0.0,0.23,0.0
+ >sexuality shouldn’t be a grouping category It makes you different from othet ppl so imo it fits the definition of "grouping" ,0.0,0.45,0.91,0.01,0.0,0.65,0.0,0.0,0.4,0.0
+You do right, if you don't care then fuck 'em!,0.7,0.1,0.6,0.0,0.0,0.0,0.45,0.1,0.25,0.45
+Man I love reddit.,1.0,0.0,0.0,0.0,0.0,0.0,0.95,0.2,0.1,0.0
+[NAME] was nowhere near them, he was by the Falcon. ,0.0,0.45,0.73,0.32,0.02,0.05,0.01,0.78,0.07
+Right? Considering it’s such an important document, I should know the damned thing backwards and forwards... thanks again for the help!
