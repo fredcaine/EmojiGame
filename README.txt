@@ -1,3 +1,18 @@
+Fully coded and produced by Fredrick Farouk.
+
+This was created over the summer of 2025, alongside the more major version of this project: "EmojiLand".
+
+During the process of creating my AI model that is under the "EmojiLand" repository, I needed some training data. Although I ended up using an alternative approach for the emoji model (directly hardcoded classifier), this allowed me to test the alternative and see which was better.
+
+Although I personally labelled roughly 3,000 pieces of information, I never got enough data for it to be useful.
+
+Since training data is very boring to label, I created a game (with some inside jokes) in roughly a week to make it more enjoyable, then sent it out to my friends, got their files, and used them.
+
+This is that game.
+
+The code, although simpler, is vaguely similar to the "Heckathon" project. I did use a clever little trick by defining a "constrained input" function to avoid try except loops, which I was quite happy with.
+
+Below are some instructions for running: (to experienced users, this was sent out to non-technical friends, so I needed to write it so that they could understand)
 FIRST TIME ONLY
 
 Unzip the folder.
