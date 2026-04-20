@@ -1,6 +1,6 @@
 Fully coded and produced by Fredrick Farouk.
 
-This was created over the summer of 2025, alongside the more major version of this project: "EmojiLand".
+This was created over the summer of 2025, alongside the more important part of this project: "EmojiLand".
 
 During the process of creating my AI model that is under the "EmojiLand" repository, I needed some training data. Although I ended up using an alternative approach for the emoji model (directly hardcoded classifier), this allowed me to test the alternative and see which was better.
 
