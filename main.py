@@ -69,7 +69,7 @@ else:
 
 index_to_item = {
     "1": "jump potion",
-    "2": "cocaine",
+    "2": "booster",
     "3": "6 day gym membership",
     "4": "jump rope",
     "5": "feet implants",
@@ -124,7 +124,7 @@ def shop():
           Anything marked with a - means that you've bought one purchase, and there is one remaining.
           
     {bcdict["1"]}1) Jump potion             500 tickets          Six hours of 1.5x jump height on use                      Can stack.
-    {bcdict["2"]}2) Cocaine                 1000 tickets         Three hours of 5x jump height on use.                   Can stack.
+    {bcdict["2"]}2) Booster                 1000 tickets         Three hours of 5x jump height on use.                   Can stack.
     {bcdict["3"]}3) 6 Day Gym Membership    800 tickets          An extra inch to jump height per day for 6 days.       Cannot stack.
     {bcdict["4"]}4) Jump rope               100 tickets          +5 inches of jump height on one-time use.               Only once.
     {bcdict["5"]}5) Feet implants   {implant_price} tickets      +1 inches of jump height on one-time use.               Only once.
