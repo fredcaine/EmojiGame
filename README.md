@@ -1,4 +1,10 @@
+## Credits
+
 Fully coded and produced by Fredrick Farouk.
+
+---
+
+## Context
 
 This was created over the summer of 2025, alongside the more important part of this project: "EmojiLand".
 
@@ -10,10 +16,21 @@ Since training data is very boring to label, I created a game (with some inside 
 
 This is that game.
 
+---
+
+## Implementation Notes
+
 The code, although simpler, is vaguely similar to the "Heckathon" project. I did use a clever little trick by defining a "constrained input" function to avoid try except loops, which I was quite happy with.
 
-Below are some instructions for running: (to experienced users, this was sent out to non-technical friends, so I needed to write it so that they could understand)
-FIRST TIME ONLY
+---
+
+## Setup Instructions
+
+Below are some instructions for running (this was sent to non-technical friends, so it is intentionally written so that they could understand).
+
+---
+
+### FIRST TIME ONLY
 
 Unzip the folder.
 
@@ -22,47 +39,41 @@ Put the EmojiGame folder inside your Downloads.
 Press Windows Key + R → type powershell → press Enter.
 
 Type this:
-
-python --version
-
+`python --version`
 
 If you get red error text, then do this:
+`cd Downloads/EmojiGame
+python`
 
-cd Downloads/EmojiGame
-python
-
-
-A Microsoft Store window will pop up → press Get.
+A Microsoft Store window will pop up → press Get.  
 After it installs, go back to powershell and type:
+`pip install pandas`
 
-pip install pandas
-
-Wait for that to finish and type
-
-pip install pywin32
+Wait for that to finish, then type:
+`pip install pywin32`
 
 If you don’t get red text, just type:
-
-cd Downloads/EmojiGame
+`cd Downloads/EmojiGame
 pip install pandas
-pip install pywin32
+pip install pywin32`
 
 
-Finally, run the game:
+Finally, run the game by typing:
+`python users.py`
 
-python users.py
+---
 
-EVERY TIME AFTER
+### EVERY TIME AFTER
 
 Windows Key + R → type powershell → Enter.
 
 Copy-paste this:
-
-cd Downloads/EmojiGame
-python users.py
+`cd Downloads/EmojiGame
+python users.py`
 
 
 When you’re done, type exit.
 
-If you shut down your computer, or press the X in the top-right, or whatever, there's a decent chance you lose progress,
-so don't. Just type exit. Then do whatever you want.
+---
+
+If you shut down your computer, or press the X in the top-right, or whatever, there's a non-zero chance you lose progress, so don't. Just type exit. Then do whatever you want.
