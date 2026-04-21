@@ -1,4 +1,4 @@
-## Credits
+# EmojiLand's EmojiGame
 
 Fully coded and produced by Fredrick Farouk.
 
