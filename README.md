@@ -12,7 +12,7 @@ During the process of creating my AI model that is under the "EmojiLand" reposit
 
 Although I personally labelled roughly 3,000 pieces of information, I never got enough data for it to be useful.
 
-Since training data is very boring to label, I created a game (with some inside jokes) in roughly a week to make it more enjoyable, then sent it out to my friends, got their files, and used them.
+Since training data is very boring to label, I created a game in roughly a week to make it more enjoyable, then sent it out to my friends, got their files, and used them.
 
 This is that game.
 
