@@ -1,6 +1,6 @@
 # EmojiLand's EmojiGame
 
-Fully coded and produced by Fredrick Farouk.
+Fully created by Fredrick Farouk.
 
 ---
 
@@ -24,7 +24,7 @@ The code, although simpler, is vaguely similar to the "Heckathon" project. I did
 
 ---
 
-## Setup Instructions
+## Usage
 
 Below are some instructions for running (this was sent to non-technical friends, so it is intentionally written so that they could understand).
 
@@ -65,7 +65,7 @@ Finally, run the game by typing:
 
 ### EVERY TIME AFTER
 
-Windows Key + R → type powershell → Enter.
+Windows Key + R → type `powershell` → Enter.
 
 Copy-paste this:
 `cd Downloads/EmojiGame`
